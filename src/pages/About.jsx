@@ -12,6 +12,7 @@ const About = () => {
     AOS.init({
       duration: "2000",
       once: true,
+      disable: 'mobile'
     });
   });
 
@@ -110,14 +111,14 @@ const About = () => {
           </div>
 
           <div className="flex gap-4">
-            <a href="https://github.com/Junaid-45">
+            <a href="https://github.com/Mohd-Junaid-45">
               <img
                 className="hover:scale-125 transition-all duration-200 cursor-pointer"
                 src={logo1}
                 alt=""
               />
             </a>
-            <a href="https://twitter.com/junaidd_45">
+            <a href="https://x.com/Junaidd45?t=gCec6TsLkYq8_Q-weJ-cBA&s=09">
               <img
                 className="hover:scale-125 transition-all duration-200 cursor-pointer"
                 src={logo2}

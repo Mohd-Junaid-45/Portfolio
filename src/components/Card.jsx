@@ -31,7 +31,7 @@ const Card = ({ info }) => {
           <Link className="max-sm:size-10" />
           <a
             className="underline font-light max-sm:text-[45px]"
-            href="https://bitwise-blog.vercel.app/"
+            href="https://blog-web-react.vercel.app/"
           >
             Live preview
           </a>
@@ -40,7 +40,7 @@ const Card = ({ info }) => {
           <Github className="max-sm:size-10" />
           <a
             className="underline font-light max-sm:text-[45px]"
-            href="https://github.com/Junaid-45/BitwiseBlog"
+            href="https://github.com/Mohd-Junaid-45/blog"
           >
             View Code
           </a>

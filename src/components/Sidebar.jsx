@@ -5,7 +5,7 @@ import "aos/dist/aos.css";
 
 const Sidebar = () => {
   useEffect(() => {
-    AOS.init({ duration: "2000", once: true });
+    AOS.init({ duration: "2000", once: true, disable: "mobile" });
   });
 
   return (

@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.0.1",
-    "@vercel/analytics": "^1.1.1",
+    "@vercel/analytics": "^1.2.2",
     "aos": "^2.3.4",
     "deploy": "^1.0.3",
     "lucide-react": "^0.303.0",
